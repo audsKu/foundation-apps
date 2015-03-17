@@ -86,7 +86,7 @@
           title: '@'
         },
         require: '^zfAccordion',
-        replace: true,
+        replace: false,
         controller: function() {},
         link: link
     };
