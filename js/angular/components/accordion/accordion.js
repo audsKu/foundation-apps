@@ -56,7 +56,7 @@
     var directive = {
       restrict: 'EA',
       transclude: 'true',
-      replace: true,
+      replace: false,
       templateUrl: 'components/accordion/accordion.html',
       controller: 'ZfAccordionController',
       scope: {
